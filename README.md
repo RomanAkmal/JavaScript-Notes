@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Course Material and FAQ for my Complete JavaScript Course
 
 This branch of the repo contains starter files and final code for all sections and projects of the course, **exactly as shown in the videos**.
@@ -71,3 +73,4 @@ There is also a the [updates-and-fixes](https://github.com/jonasschmedtmann/comp
 ### Q14: I'm looking for the old course version (v1) files. Where can I find them?
 
 **A:** They are in this same repo, but in the [v1 branch](https://github.com/jonasschmedtmann/complete-javascript-course/tree/v1). So just go to [v1](https://github.com/jonasschmedtmann/complete-javascript-course/tree/v1), and download the code from there.
+g
