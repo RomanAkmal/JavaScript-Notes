@@ -26,3 +26,4 @@ movements.forEach(function (movement, index, array) {
 // 0: function(200)
 // 0: function(450)
 // 0: function(400)
+//0: function(3000)
