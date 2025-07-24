@@ -22,8 +22,6 @@ const calcAverageHumanAge = function (ages) {
   const avgHumanAdultdogs =
     adultdogs.reduce((acc, age) => acc + age, 0) / adultdogs.length;
 
-  console.log(humanAge);
-  console.log(adultdogs);
   console.log(avgHumanAdultdogs);
 };
 
